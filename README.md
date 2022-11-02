@@ -22,3 +22,6 @@ continue chasing the player and fireballs continue to spwan randomly. If the pla
 While that is going on, for the levels where Spike is present, if the player gets hit by Spike, the player will fall to the bottom of the level.
 This implementation benefits the game by making it easy to establish the relations between objects, and also add new enemies that act similarly
 to the ones aready present in the game if someone wants to add a new enemy.
+
+To run the executable, all you need to do is open the WreckingCrew.exe executable file that should be at the bottom of the repo.
+Be aware that I didn't implement any controls, so it's basically just a scene. Will need to Alt+f4 to exit.
