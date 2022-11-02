@@ -10,6 +10,8 @@ I would implement it and why. The final challenge is to create a low-fidelity sc
 Website used to read about the game: https://en.wikipedia.org/wiki/Wrecking_Crew_(video_game)
 Video watched for gameplay: https://www.youtube.com/watch?v=-7F-7MtkHD0
 
+I created a low-fidelity scene representation of Wrecking Crew, but I didn't implement anything else like controls.
+
 Observer Pattern Explanation:
 
 I implemented the observer pattern by having the player be the subject while the enemy/fireball objects are the observers.
