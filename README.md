@@ -16,7 +16,7 @@ Observer Pattern Explanation:
 
 I implemented the observer pattern by having the player be the subject while the enemy/fireball objects are the observers.
 I implemented it in this manner because it seems like an efficient way to keep track of when the player gets hit.
-As shown in the flowchart, enemy objects will chase the player in the level while fireballs will be spawned randomly.
+As shown in the flowchart that is available as a PNG file in the repo, enemy objects will chase the player in the level while fireballs will be spawned randomly.
 If the player gets hit by one of them, they lose a life. The game will check if the player is out of lives, if NO, then enemies will
 continue chasing the player and fireballs continue to spwan randomly. If the player is OUT of lives, then it's game over and the game ends.
 While that is going on, for the levels where Spike is present, if the player gets hit by Spike, the player will fall to the bottom of the level.
