@@ -7,6 +7,8 @@ and explain how it works and why I implemented it this way. The next challenge i
 mapped keys that control the main character in the game. The third challenge is to explain a use for the observer pattern in the designated game and how
 I would implement it and why. The final challenge is to create a low-fidelity scene of the game in Unity.
 
+Website used to read about the game: https://en.wikipedia.org/wiki/Wrecking_Crew_(video_game)
+Video watched for gameplay: https://www.youtube.com/watch?v=-7F-7MtkHD0
 
 Observer Pattern Explanation:
 
